@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyCore/Scenes/Start.unity
+    guid: f8b13500d53d59542a0bde96319fc9bd
+  - enabled: 1
+    path: Assets/MyCore/Scenes/CompanyScreen.unity
+    guid: ab24ee26caf54f24e8b93d31ee7ec956
+  - enabled: 1
+    path: Assets/CoreAddable/Scenes/MainMenu.unity
+    guid: 04ec0a9aa866d0b40b0d6d954f405892
+  - enabled: 1
+    path: Assets/CoreAddable/Scenes/GamePlay.unity
+    guid: 1c9464fec661ecb4ca4a5b257987d231
+  m_configObjects: {}
